@@ -21,7 +21,6 @@
             "shortDescription": "IPTV player",
             "fullDescriptionUrl": "https://ipstream.one/"
         },
-
         {
             "id": "com.ipstream.one",
             "title": "IPStream.one (iFrame, Chrome bypass)",

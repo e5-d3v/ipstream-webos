@@ -15,7 +15,7 @@
                 "sourceUrl": "https://ipstream.one/",
                 "rootRequired": false,
                 "ipkUrl": "https://raw.githubusercontent.com/e5-d3v/ipstream-webos/refs/heads/main/com.ipstream.one_0.6.56_all.ipk",
-                "ipkHash": { "sha256": "c3c1be66b491d270beff0d0d4adad940949a4ac9e47458c5cf919231d709c2c2" },
+                "ipkHash": { "sha256": "204f404f4298d5ab529a436638743cd1f711acb9e0628cb87b37ee6dcac43ef4" },
                 "ipkSize": 329544
             },
             "shortDescription": "IPTV player",

@@ -20,13 +20,8 @@
             },
             "shortDescription": "IPTV player",
             "fullDescriptionUrl": "https://ipstream.one/"
-        }
-    ]
-},
+        },
 
-{
-    "paging": { "page": 1, "count": 1, "maxPage": 1, "itemsTotal": 1 },
-    "packages": [
         {
             "id": "com.ipstream.one",
             "title": "IPStream.one (iFrame, Chrome bypass)",

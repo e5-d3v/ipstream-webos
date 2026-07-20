@@ -20,26 +20,6 @@
             },
             "shortDescription": "IPTV player",
             "fullDescriptionUrl": "https://ipstream.one/"
-        },
-        {
-            "id": "com.ipstream.one",
-            "title": "IPStream.one (iFrame, Chrome bypass)",
-            "iconUri": "https://raw.githubusercontent.com/e5-d3v/ipstream-webos/refs/heads/main/icon.png",
-            "manifest": {
-                "id": "com.ipstream.one",
-                "version": "0.6.56",
-                "type": "web",
-                "title": "IPStream.one",
-                "appDescription": "IPStream.one/IPStr.im IPTV player for WebOS",
-                "iconUri": "https://raw.githubusercontent.com/e5-d3v/ipstream-webos/refs/heads/main/icon.png",
-                "sourceUrl": "https://ipstream.one/",
-                "rootRequired": false,
-                "ipkUrl": "https://raw.githubusercontent.com/e5-d3v/ipstream-webos/refs/heads/main/com.ipstream.one_0.6.56_iframe.ipk",
-                "ipkHash": { "sha256": "ae97d453002c56f4bb8851352b08b86d7b47b25f6fb75c70142041182cf838af" },
-                "ipkSize": 329544
-            },
-            "shortDescription": "IPTV player",
-            "fullDescriptionUrl": "https://ipstream.one/"
         }
     ]
 }

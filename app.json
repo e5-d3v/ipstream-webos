@@ -1,0 +1,25 @@
+{
+    "paging": { "page": 1, "count": 1, "maxPage": 1, "itemsTotal": 1 },
+    "packages": [
+        {
+            "id": "com.ipstream.one",
+            "title": "IPStream.one",
+            "iconUri": "https://raw.githubusercontent.com/e5-d3v/ipstream-webos/refs/heads/main/icon.png",
+            "manifest": {
+                "id": "com.ipstream.one",
+                "version": "0.6.56",
+                "type": "web",
+                "title": "IPStream.one",
+                "appDescription": "IPStream.one/IPStr.im IPTV player for WebOS",
+                "iconUri": "https://raw.githubusercontent.com/e5-d3v/ipstream-webos/refs/heads/main/icon.png",
+                "sourceUrl": "https://ipstream.one/",
+                "rootRequired": false,
+                "ipkUrl": "https://raw.githubusercontent.com/e5-d3v/ipstream-webos/refs/heads/main/com.ipstream.one_0.6.56_all.ipk",
+                "ipkHash": { "sha256": "c3c1be66b491d270beff0d0d4adad940949a4ac9e47458c5cf919231d709c2c2" },
+                "ipkSize": 329544
+            },
+            "shortDescription": "IPTV player",
+            "fullDescriptionUrl": "https://ipstream.one/"
+        }
+    ]
+}
